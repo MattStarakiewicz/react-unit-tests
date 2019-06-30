@@ -40,3 +40,4 @@ it('Add new Player', () => {
   expect(players[0].name).toEqual('Ania');
   expect(players[0].score).toEqual(0);
 });
+
